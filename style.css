@@ -1,0 +1,187 @@
+
+body {
+background: #283b58; 
+font-family: "Poppins", Arial, sans-serif; 
+
+}
+
+.cards-container1 {
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 10px;
+}
+
+.card {
+    flex: 1;         
+}
+
+
+.cards-container2 {
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 10px;
+}
+
+.card {
+    flex: 1;         
+}
+
+
+
+.cards-container3 {
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 10px;
+}
+
+.card {
+    flex: 1;         
+}
+
+
+.card {
+margin: 20px;
+width: 18rem !important;
+border-radius: 15px;
+box-shadow: 0px 4px 12px rgba(77, 16, 16, 0.15);
+}
+
+.card img {
+height: 400px;
+object-fit: cover;
+}
+
+.card-title {
+font-weight: 500;
+text-align: center;
+}
+
+.card-body {
+text-align: center;
+}
+
+
+
+.cards-container4{
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 200px;
+}
+
+.card {
+    flex: 1;         
+}
+
+
+.cards-container5{
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 200px;
+}
+
+.card {
+    flex: 1;         
+}
+
+
+.cards-container6{
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 200px;
+}
+
+.card {
+    flex: 1;         
+}
+
+
+.cards-container7{
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 200px;
+}
+
+.card {
+    flex: 1;         
+}
+
+
+
+.cards-container8{
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 200px;
+}
+
+.card {
+    flex: 1;         
+}
+
+
+.cards-container9{
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 200px;
+}
+
+.card {
+    flex: 1;         
+}
+
+
+.cards-container10{
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 200px;
+}
+
+.card {
+    flex: 1;         
+}
+
+.cards-container11{
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 200px;
+}
+
+.card {
+    flex: 1;         
+}
+
+
+.cards-container12{
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 200px;
+}
+
+.card {
+    flex: 1;         
+}
+
+
+.cards-container13{
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;                     
+    padding: 200px;
+}
+
+.card {
+    flex: 1;         
+}
+
+ 
